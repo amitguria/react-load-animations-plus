@@ -1,6 +1,6 @@
 {
   "name": "react-load-animations-plus",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Pure CSS Loading animations for ReactJs",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
