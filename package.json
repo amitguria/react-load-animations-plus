@@ -1,6 +1,6 @@
 {
   "name": "react-load-animations-plus",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Pure CSS Loading animations for ReactJs",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -35,5 +35,3 @@
     "rollup-plugin-terser": "^7.0.2"
   }
 }
-
-
